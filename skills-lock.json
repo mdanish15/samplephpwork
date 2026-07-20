@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "azure-resource-lookup": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-resource-lookup/SKILL.md",
+      "computedHash": "cace60773f5c5a6aedd039613177be3d136dec5b5b5f2cc6f1708ac5f3c79938"
+    },
     "brainstorming": {
       "source": "obra/superpowers",
       "sourceType": "github",
